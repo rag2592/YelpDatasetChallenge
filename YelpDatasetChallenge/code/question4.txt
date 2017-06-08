@@ -1,0 +1,33 @@
+A = LOAD '/user/rsr379/yelp_academic_dataset_user.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true ') AS (yelp: map[]);
+
+users = FOREACH A GENERATE yelp#'user_id' as user_id, yelp#'name' as name, (int)yelp#'review_count' as review_count;
+
+B = LOAD '/user/rsr379/yelp_academic_dataset_review.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true ') AS (review: map[]);
+
+reviews = FOREACH B GENERATE review#'business_id' as business_id, (int)review#'stars' as stars, review#'user_id' as user_id;
+
+C = LOAD '/user/rsr379/yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true ') AS (busines: map[]);
+
+business = FOREACH C GENERATE busines#'business_id' as business_id, busines#'categories' as categories;
+
+ranked_users = ORDER users by review_count DESC;
+
+STORE ranked_users INTO '/user/rsr379/RankedUsers.tsv';
+
+ordered = ORDER users by review_count DESC ;
+
+top_users = LIMIT ordered 10;
+
+combine = JOIN top_users by user_id, reviews by user_id ;
+
+tab1 = FOREACH combine GENERATE name as Name, stars as Stars, business_id as Business_ID;
+
+combine2 = JOIN tab1 by Business_ID, business by business_id;
+
+flattened = FOREACH combine2 GENERATE Stars, Name, FLATTEN(categories);
+
+grouped = GROUP flattened by (Name,categories);
+
+results = FOREACH grouped GENERATE FLATTEN(group) AS (Name, categories) , AVG(flattened.Stars) AS rankings;
+
+STORE results INTO '/user/rsr379/Q4ResultSet.tsv';

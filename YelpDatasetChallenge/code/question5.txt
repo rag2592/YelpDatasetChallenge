@@ -1,0 +1,45 @@
+A = LOAD '/user/rsr379/yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true ') AS (yelp: map[]);
+
+business = FOREACH A GENERATE yelp#'categories' as categories, (float)yelp#'stars' as stars, yelp#'name' as name, yelp#'business_id' as business_id,(float)yelp#'latitude' as latitude, (float)yelp#'longitude' as longitude;
+
+business_radius = FILTER business BY (latitude<43.2192) AND (latitude>42.9398) AND (longitude<-89.2461) AND (longitude>-89.6024);
+
+processedtable = FOREACH business_radius GENERATE name, stars, business_id, org.apache.pig.builtin.BagToString(TOBAG(categories)) as category;
+
+filtered = FILTER processedtable BY category matches '.*Food.*';
+
+ordered = ORDER filtered by stars DESC;
+
+top_10 = limit ordered 10;
+
+B = LOAD '/user/rsr379/yelp_academic_dataset_review.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true ') AS (review: map[]);
+
+reviews = FOREACH B GENERATE (float)review#'rating' as ratings, review#'business_id' as business_id, review#'date' as date;
+
+combine = JOIN top_10 by business_id, reviews by business_id;
+
+tab2 = FOREACH combine GENERATE $0 as name, $1 as ratings, $5 as business_id, (int)SUBSTRING($6, 5, 7) as month;
+
+filtered2 = FILTER tab2 BY (month>0) AND (month<6);
+
+grouped = GROUP filtered2 by (business_id, name, month);
+
+flattened = FOREACH grouped GENERATE FLATTEN (group) as (business_id, name, month), AVG(filtered2.ratings);
+
+STORE flattened INTO '/user/rsr379/TOP_10_FOODS_month.tsv';
+
+ordered_desc = ORDER filtered by stars;
+
+bottom_10 = limit ordered_desc 10;
+
+combineb = JOIN bottom_10 by business_id, reviews by business_id;
+
+tab3 = FOREACH combineb GENERATE $0 as name, $1 as ratings, $5 as business_id, (int)SUBSTRING($6, 5, 7) as month;
+
+filtered3 = FILTER tab3 BY (month>0) AND (month<6);
+
+groupedb = GROUP filtered3 by (business_id, name, month);
+
+flattenedb = FOREACH groupedb GENERATE FLATTEN (group) as (business_id, name, month), AVG(filtered3.ratings);
+
+STORE flattenedb INTO '/user/rsr379/BOTTOM_10_FOODS_month.tsv';

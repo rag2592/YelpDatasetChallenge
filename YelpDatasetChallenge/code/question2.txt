@@ -1,0 +1,19 @@
+A = LOAD '/user/rsr379/yelp_academic_dataset_business.json'	USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad') AS (yelp:map[]);
+
+business = FOREACH A GENERATE yelp#'categories' as categories, yelp#'city' as city, yelp#'business_id' as business_id;
+
+ B = LOAD '/user/rsr379/yelp_academic_dataset_review.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad') AS (review: map[]);
+
+reviews = FOREACH B GENERATE review#'business_id' as business_id, (INT)review#'stars' as stars;
+
+combine = JOIN business by business_id, reviews by business_id;
+
+flattened = FOREACH combine GENERATE city,stars, FLATTEN(categories);
+
+grouped = GROUP flattened by (categories,city);
+
+result = FOREACH grouped GENERATE FLATTEN(group) AS (categories,city), AVG(flattened.stars) AS ranking;
+
+final_result = ORDER result BY categories,ranking DESC;
+
+STORE final_result into '/user/rsr379/Q2Result.tsv';

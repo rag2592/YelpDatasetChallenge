@@ -1,0 +1,1310 @@
+Dan	Bars	2.5
+Dan	Food	3.7333333333333334
+Dan	Thai	3.0
+Dan	Used	3.0
+Dan	Zoos	4.0
+Dan	Cafes	4.0
+Dan	Greek	2.0
+Dan	Irish	3.0
+Dan	Parks	4.0
+Dan	Cinema	3.0
+Dan	Tennis	4.0
+Dan	Burgers	3.0
+Dan	Fashion	3.0
+Dan	Framing	4.0
+Dan	Grocery	4.0
+Dan	Italian	3.0
+Dan	Jewelry	4.0
+Dan	Museums	4.5
+Dan	Seafood	2.0
+Dan	Bakeries	4.0
+Dan	Barbeque	4.0
+Dan	Desserts	4.0
+Dan	Shopping	4.0
+Dan	Southern	4.0
+Dan	Aquariums	5.0
+Dan	Dog Parks	3.5
+Dan	Education	1.0
+Dan	Fast Food	2.5
+Dan	Festivals	3.0
+Dan	Nightlife	2.6666666666666665
+Dan	Wine Bars	3.0
+Dan	Automotive	3.0
+Dan	Sandwiches	2.5
+Dan	Tapas Bars	2.0
+Dan	Active Life	4.166666666666667
+Dan	Car Dealers	3.0
+Dan	Food Trucks	3.0
+Dan	Hobby Shops	4.0
+Dan	Restaurants	3.0833333333333335
+Dan	Steakhouses	3.0
+Dan	Art Supplies	4.0
+Dan	Asian Fusion	3.5
+Dan	Coffee & Tea	4.0
+Dan	Comedy Clubs	3.0
+Dan	Comfort Food	4.0
+Dan	Fish & Chips	2.0
+Dan	Local Flavor	3.0
+Dan	Ticket Sales	3.0
+Dan	Art Galleries	5.0
+Dan	Arts & Crafts	4.0
+Dan	Mediterranean	2.0
+Dan	Observatories	3.0
+Dan	American (New)	2.5
+Dan	Canadian (New)	2.3333333333333335
+Dan	Farmers Market	3.5
+Dan	Specialty Food	3.5
+Dan	Train Stations	3.0
+Dan	Transportation	3.5
+Dan	Hotels & Travel	3.5
+Dan	Performing Arts	3.0
+Dan	Knitting Supplies	4.0
+Dan	Breakfast & Brunch	3.5
+Dan	Arts & Entertainment	3.5
+Dan	Chocolatiers & Shops	4.0
+Dan	Public Transportation	3.5
+Dan	Venues & Event Spaces	3.0
+Dan	Vintage & Consignment	3.0
+Dan	American (Traditional)	4.5
+Dan	Juice Bars & Smoothies	4.0
+Dan	Colleges & Universities	1.0
+Dan	Event Planning & Services	3.0
+Dan	Ice Cream & Frozen Yogurt	4.0
+Dan	Public Services & Government	3.0
+Dan	Landmarks & Historical Buildings	3.0
+Kim	Bars	5.0
+Kim	Food	4.0
+Kim	Grocery	4.0
+Kim	Museums	5.0
+Kim	Bakeries	4.0
+Kim	Breweries	4.0
+Kim	Nightlife	5.0
+Kim	Ethnic Food	4.0
+Kim	Restaurants	5.0
+Kim	Mediterranean	5.0
+Kim	American (New)	5.0
+Kim	Specialty Food	4.0
+Kim	Arts & Entertainment	5.0
+Kim	International Grocery	4.0
+Rob	Bars	4.0
+Rob	Food	4.1
+Rob	Soup	5.0
+Rob	Thai	4.0
+Rob	Cafes	3.6666666666666665
+Rob	Pizza	3.3333333333333335
+Rob	Salad	5.0
+Rob	Diners	3.0
+Rob	French	4.4
+Rob	Gelato	3.0
+Rob	Hotels	4.0
+Rob	Korean	4.0
+Rob	Buffets	4.5
+Rob	Burgers	3.0
+Rob	Casinos	3.5
+Rob	Chinese	5.0
+Rob	Italian	3.25
+Rob	Lounges	4.0
+Rob	Noodles	4.0
+Rob	Resorts	4.0
+Rob	Seafood	4.333333333333333
+Rob	Spanish	4.0
+Rob	Bakeries	3.8333333333333335
+Rob	Caterers	5.0
+Rob	Desserts	3.8
+Rob	Japanese	3.5
+Rob	Macarons	3.0
+Rob	Southern	5.0
+Rob	Nightlife	3.8947368421052633
+Rob	Wine Bars	3.5
+Rob	Automotive	4.0
+Rob	Sandwiches	4.2
+Rob	Sushi Bars	3.2
+Rob	Vegetarian	4.0
+Rob	Vietnamese	4.0
+Rob	Car Dealers	4.0
+Rob	Dance Clubs	3.75
+Rob	Restaurants	3.9047619047619047
+Rob	Singaporean	5.0
+Rob	Steakhouses	3.6666666666666665
+Rob	Asian Fusion	4.0
+Rob	Chicken Shop	5.0
+Rob	Coffee & Tea	3.0
+Rob	Music Venues	5.0
+Rob	Mediterranean	4.0
+Rob	American (New)	4.222222222222222
+Rob	Specialty Food	3.0
+Rob	Hotels & Travel	4.0
+Rob	Breakfast & Brunch	4.0
+Rob	Tapas/Small Plates	4.0
+Rob	Arts & Entertainment	4.0
+Rob	Venues & Event Spaces	5.0
+Rob	American (Traditional)	3.0
+Rob	Food Delivery Services	5.0
+Rob	Event Planning & Services	4.4
+Rob	Ice Cream & Frozen Yogurt	3.0
+Eric	Bars	4.0
+Eric	Food	3.625
+Eric	Mags	3.3333333333333335
+Eric	Pubs	4.0
+Eric	Thai	3.0
+Eric	Books	3.3333333333333335
+Eric	Cafes	3.6666666666666665
+Eric	Delis	3.5
+Eric	Limos	3.0
+Eric	Parks	3.0
+Eric	Pizza	3.0
+Eric	Tires	3.0
+Eric	Diners	3.0
+Eric	Donuts	4.0
+Eric	French	3.5
+Eric	Hotels	3.5
+Eric	Korean	3.0
+Eric	Barbers	4.0
+Eric	British	4.0
+Eric	Burgers	2.5
+Eric	Casinos	3.0
+Eric	Fashion	3.6
+Eric	Grocery	3.5
+Eric	Italian	3.0
+Eric	Lounges	5.0
+Eric	Mexican	3.0
+Eric	Museums	4.333333333333333
+Eric	Seafood	5.0
+Eric	Airlines	3.0
+Eric	Airports	3.25
+Eric	Bakeries	3.5
+Eric	Caterers	4.0
+Eric	Churches	4.0
+Eric	Desserts	3.5
+Eric	Shopping	3.611111111111111
+Eric	Aquariums	4.0
+Eric	Fast Food	3.0
+Eric	Nightlife	4.0
+Eric	Automotive	3.0
+Eric	Bookstores	3.3333333333333335
+Eric	Home Decor	3.0
+Eric	Mass Media	4.0
+Eric	Sandwiches	3.3333333333333335
+Eric	Street Art	5.0
+Eric	Accessories	4.0
+Eric	Active Life	3.3333333333333335
+Eric	Hair Salons	4.0
+Eric	Hobby Shops	3.0
+Eric	Restaurants	3.5
+Eric	Sports Bars	2.0
+Eric	Steakhouses	4.5
+Eric	Asian Fusion	3.0
+Eric	Coffee & Tea	4.0
+Eric	Local Flavor	5.0
+Eric	Ticket Sales	4.0
+Eric	Art Galleries	4.0
+Eric	Beauty & Spas	4.0
+Eric	Home & Garden	3.0
+Eric	Leather Goods	4.0
+Eric	Music & Video	3.3333333333333335
+Eric	Observatories	4.0
+Eric	Travel Agents	3.0
+Eric	American (New)	3.0
+Eric	Canadian (New)	2.0
+Eric	Farmers Market	4.0
+Eric	Local Services	4.0
+Eric	Men's Clothing	4.0
+Eric	Radio Stations	4.0
+Eric	Train Stations	4.0
+Eric	Transportation	3.4
+Eric	Baseball Fields	3.0
+Eric	Hardware Stores	3.0
+Eric	Hotels & Travel	3.4166666666666665
+Eric	Performing Arts	4.666666666666667
+Eric	Travel Services	3.0
+Eric	Airport Shuttles	3.0
+Eric	Office Equipment	3.0
+Eric	Shopping Centers	3.0
+Eric	Wedding Planning	4.0
+Eric	Women's Clothing	4.0
+Eric	Botanical Gardens	4.0
+Eric	Department Stores	3.5
+Eric	Stadiums & Arenas	3.6666666666666665
+Eric	Breakfast & Brunch	3.6666666666666665
+Eric	Television Stations	4.0
+Eric	Arts & Entertainment	3.9444444444444446
+Eric	Public Transportation	4.0
+Eric	Venues & Event Spaces	3.0
+Eric	American (Traditional)	3.0
+Eric	Gas & Service Stations	3.0
+Eric	Religious Organizations	4.0
+Eric	Cosmetics & Beauty Supply	4.0
+Eric	Event Planning & Services	3.5
+Eric	Public Services & Government	3.875
+Eric	Landmarks & Historical Buildings	3.875
+Bruce	Bars	3.640625
+Bruce	Beer	3.782608695652174
+Bruce	Food	3.676348547717842
+Bruce	Gyms	4.0
+Bruce	Mags	3.4210526315789473
+Bruce	Pets	3.5454545454545454
+Bruce	Pubs	3.388888888888889
+Bruce	Soup	3.7
+Bruce	Thai	3.3333333333333335
+Bruce	Used	4.0
+Bruce	Bikes	3.0
+Bruce	Books	3.4210526315789473
+Bruce	Buses	5.0
+Bruce	Cafes	3.9444444444444446
+Bruce	Cuban	4.0
+Bruce	Delis	3.769230769230769
+Bruce	Greek	3.8181818181818183
+Bruce	Irish	3.0
+Bruce	Lakes	4.0
+Bruce	Parks	4.25
+Bruce	Pizza	3.72972972972973
+Bruce	Ramen	4.0
+Bruce	Salad	3.590909090909091
+Bruce	Tacos	5.0
+Bruce	Taxis	4.25
+Bruce	Tires	3.7777777777777777
+Bruce	Tours	3.6666666666666665
+Bruce	Vegan	4.0
+Bruce	Bagels	3.769230769230769
+Bruce	Cinema	3.6666666666666665
+Bruce	Diners	3.9411764705882355
+Bruce	Donuts	4.0
+Bruce	French	3.857142857142857
+Bruce	German	4.75
+Bruce	Hiking	4.0
+Bruce	Hotels	3.4705882352941178
+Bruce	Indian	4.0
+Bruce	Korean	4.0
+Bruce	Kosher	4.333333333333333
+Bruce	Movers	4.0
+Bruce	Trains	4.0
+Bruce	Arcades	2.5
+Bruce	Barbers	3.3636363636363638
+Bruce	Beaches	4.0
+Bruce	Bowling	4.0
+Bruce	British	4.0
+Bruce	Buffets	3.4285714285714284
+Bruce	Burgers	3.3484848484848486
+Bruce	Butcher	4.0
+Bruce	Casinos	4.0
+Bruce	Chinese	3.3684210526315788
+Bruce	Doctors	3.5
+Bruce	Fashion	3.156862745098039
+Bruce	Framing	3.0
+Bruce	Grocery	3.4827586206896552
+Bruce	Italian	3.9375
+Bruce	Jewelry	3.8333333333333335
+Bruce	Lounges	3.3333333333333335
+Bruce	Luggage	3.0
+Bruce	Massage	3.0
+Bruce	Mexican	3.3714285714285714
+Bruce	Museums	4.266666666666667
+Bruce	Noodles	4.0
+Bruce	Parking	3.8
+Bruce	Seafood	3.3076923076923075
+Bruce	Spanish	3.0
+Bruce	Tex-Mex	3.466666666666667
+Bruce	Turkish	3.0
+Bruce	Waffles	4.0
+Bruce	Airlines	3.125
+Bruce	Airports	3.4166666666666665
+Bruce	Antiques	3.0
+Bruce	Bakeries	4.0
+Bruce	Barbeque	3.6470588235294117
+Bruce	Beer Bar	4.4
+Bruce	Car Wash	3.25
+Bruce	Caterers	3.8823529411764706
+Bruce	Churches	5.0
+Bruce	Costumes	4.0
+Bruce	Cupcakes	5.0
+Bruce	Day Spas	3.0
+Bruce	Dentists	3.5
+Bruce	Desserts	3.923076923076923
+Bruce	Flooring	4.0
+Bruce	Florists	4.0
+Bruce	Hot Dogs	3.75
+Bruce	Japanese	3.823529411764706
+Bruce	Notaries	3.375
+Bruce	Peruvian	4.0
+Bruce	Pretzels	4.0
+Bruce	Scottish	5.0
+Bruce	Shopping	3.4858490566037736
+Bruce	Southern	3.88
+Bruce	Trainers	4.0
+Bruce	Wineries	4.0
+Bruce	Brazilian	4.0
+Bruce	Breweries	4.444444444444445
+Bruce	Caribbean	4.0
+Bruce	Carpeting	5.0
+Bruce	Computers	3.8
+Bruce	Creperies	4.2
+Bruce	Dive Bars	3.0
+Bruce	Dog Parks	5.0
+Bruce	Education	3.7
+Bruce	Ethiopian	5.0
+Bruce	Fast Food	3.2613636363636362
+Bruce	Festivals	4.666666666666667
+Bruce	Hospitals	4.0
+Bruce	Insurance	4.0
+Bruce	Libraries	3.2
+Bruce	Mongolian	4.0
+Bruce	Nightlife	3.671641791044776
+Bruce	Pakistani	4.0
+Bruce	Soul Food	4.2
+Bruce	Wine Bars	3.888888888888889
+Bruce	Apartments	2.0
+Bruce	Appliances	3.8181818181818183
+Bruce	Automotive	3.5961538461538463
+Bruce	Bookstores	3.357142857142857
+Bruce	Brasseries	4.5
+Bruce	Car Buyers	5.0
+Bruce	Car Rental	3.0
+Bruce	Drugstores	3.3043478260869565
+Bruce	Food Court	2.5
+Bruce	Gastropubs	3.8333333333333335
+Bruce	Gift Shops	3.6666666666666665
+Bruce	Home Decor	3.7142857142857144
+Bruce	Mass Media	3.3333333333333335
+Bruce	Meat Shops	3.0
+Bruce	Pawn Shops	3.0
+Bruce	Pet Stores	3.5714285714285716
+Bruce	Piano Bars	2.0
+Bruce	Pool Halls	3.0
+Bruce	Rest Stops	3.0
+Bruce	Sandwiches	3.6271186440677967
+Bruce	Shaved Ice	4.0
+Bruce	Shoe Shine	5.0
+Bruce	Signmaking	3.0
+Bruce	Smokehouse	4.0
+Bruce	Street Art	5.0
+Bruce	Sushi Bars	4.0
+Bruce	Tapas Bars	4.0
+Bruce	Toy Stores	3.5
+Bruce	Vegetarian	4.3
+Bruce	Vietnamese	4.0
+Bruce	Accessories	4.25
+Bruce	Active Life	4.166666666666667
+Bruce	Art Classes	4.0
+Bruce	Art Museums	4.2
+Bruce	Art Schools	5.0
+Bruce	Auto Repair	3.6
+Bruce	Car Dealers	4.0
+Bruce	Comic Books	4.0
+Bruce	Contractors	5.0
+Bruce	Dance Clubs	2.0
+Bruce	Electronics	3.6923076923076925
+Bruce	Ethnic Food	3.6666666666666665
+Bruce	Food Trucks	4.0
+Bruce	Formal Wear	2.0
+Bruce	Gluten-Free	4.4
+Bruce	Guns & Ammo	4.0
+Bruce	Hair Salons	3.4285714285714284
+Bruce	Hobby Shops	3.6666666666666665
+Bruce	Print Media	3.0
+Bruce	Race Tracks	4.0
+Bruce	Real Estate	2.0
+Bruce	Restaurants	3.622950819672131
+Bruce	Shoe Repair	5.0
+Bruce	Shoe Stores	4.333333333333333
+Bruce	Sports Bars	3.3333333333333335
+Bruce	Sports Wear	3.3333333333333335
+Bruce	Steakhouses	4.0
+Bruce	Art Supplies	3.3333333333333335
+Bruce	Asian Fusion	3.9285714285714284
+Bruce	Bike Rentals	4.0
+Bruce	Bike Sharing	4.0
+Bruce	Cajun/Creole	3.25
+Bruce	Cheesesteaks	4.0
+Bruce	Chicken Shop	3.5
+Bruce	Coffee & Tea	3.7049180327868854
+Bruce	Comfort Food	3.5
+Bruce	Distilleries	4.0
+Bruce	Fish & Chips	2.5
+Bruce	Flea Markets	2.5
+Bruce	Local Flavor	4.461538461538462
+Bruce	Music & DVDs	3.0
+Bruce	Music Venues	3.4285714285714284
+Bruce	Outdoor Gear	3.857142857142857
+Bruce	Pet Groomers	3.75
+Bruce	Pet Services	3.8
+Bruce	Pet Training	3.5714285714285716
+Bruce	Post Offices	2.8181818181818183
+Bruce	Self Storage	4.0
+Bruce	Social Clubs	3.5
+Bruce	Sports Clubs	4.0
+Bruce	Truck Rental	3.6666666666666665
+Bruce	Whiskey Bars	4.0
+Bruce	Art Galleries	4.0
+Bruce	Arts & Crafts	3.6
+Bruce	Beauty & Spas	3.260869565217391
+Bruce	Chicken Wings	3.3684210526315788
+Bruce	Cocktail Bars	3.5
+Bruce	Hair Stylists	3.7142857142857144
+Bruce	Home & Garden	3.814814814814815
+Bruce	Home Cleaning	5.0
+Bruce	Home Services	3.8461538461538463
+Bruce	Imported Food	4.0
+Bruce	Mediterranean	4.111111111111111
+Bruce	Mobile Phones	2.85
+Bruce	Music & Video	3.4210526315789473
+Bruce	Observatories	5.0
+Bruce	Oral Surgeons	3.0
+Bruce	Orthodontists	3.5
+Bruce	Outlet Stores	4.0
+Bruce	Pediatricians	4.0
+Bruce	Photographers	5.0
+Bruce	Thrift Stores	3.75
+Bruce	Tobacco Shops	4.25
+Bruce	Veterinarians	3.4
+Bruce	Walking Tours	5.0
+Bruce	American (New)	3.7636363636363637
+Bruce	Auto Detailing	4.0
+Bruce	Beverage Store	3.0
+Bruce	Discount Store	2.6842105263157894
+Bruce	Farmers Market	4.75
+Bruce	Golf Equipment	3.0
+Bruce	Health Markets	4.0
+Bruce	Kitchen & Bath	4.333333333333333
+Bruce	Latin American	3.3333333333333335
+Bruce	Local Services	3.5517241379310347
+Bruce	Men's Clothing	2.4
+Bruce	Organic Stores	4.0
+Bruce	Party Supplies	4.0
+Bruce	Radio Stations	4.0
+Bruce	Specialty Food	4.095238095238095
+Bruce	Sporting Goods	3.769230769230769
+Bruce	Street Vendors	4.0
+Bruce	Train Stations	3.4
+Bruce	Transportation	3.6176470588235294
+Bruce	Used Bookstore	4.0
+Bruce	Valet Services	4.0
+Bruce	Wine & Spirits	3.782608695652174
+Bruce	Airport Lounges	3.25
+Bruce	Cooking Classes	3.0
+Bruce	Family Practice	4.0
+Bruce	Flowers & Gifts	3.9583333333333335
+Bruce	Hardware Stores	3.7
+Bruce	Home Automation	4.0
+Bruce	Hotels & Travel	3.513157894736842
+Bruce	Leisure Centers	5.0
+Bruce	Modern European	4.0
+Bruce	Office Cleaning	5.0
+Bruce	Performing Arts	4.5
+Bruce	Seafood Markets	3.0
+Bruce	Shades & Blinds	4.0
+Bruce	Travel Services	3.5
+Bruce	Airport Shuttles	2.5
+Bruce	Firearm Training	4.0
+Bruce	Fruits & Veggies	4.333333333333333
+Bruce	Furniture Stores	3.857142857142857
+Bruce	Gun/Rifle Ranges	4.0
+Bruce	Health & Medical	3.5714285714285716
+Bruce	Office Equipment	3.142857142857143
+Bruce	Packing Supplies	1.0
+Bruce	Security Systems	4.0
+Bruce	Shipping Centers	3.0833333333333335
+Bruce	Shopping Centers	3.6153846153846154
+Bruce	Used Car Dealers	5.0
+Bruce	Wholesale Stores	4.0
+Bruce	Women's Clothing	3.111111111111111
+Bruce	Building Supplies	3.25
+Bruce	Department Stores	3.0
+Bruce	General Dentistry	3.5
+Bruce	Internal Medicine	4.0
+Bruce	Keys & Locksmiths	5.0
+Bruce	Knitting Supplies	3.0
+Bruce	Men's Hair Salons	3.4
+Bruce	Plus Size Fashion	2.0
+Bruce	Printing Services	3.1
+Bruce	Specialty Schools	4.666666666666667
+Bruce	Stadiums & Arenas	4.25
+Bruce	Video Game Stores	4.0
+Bruce	Breakfast & Brunch	3.8026315789473686
+Bruce	Car Share Services	4.0
+Bruce	Cards & Stationery	3.6666666666666665
+Bruce	Convenience Stores	3.5517241379310347
+Bruce	Electronics Repair	4.0
+Bruce	Financial Services	3.5
+Bruce	Himalayan/Nepalese	5.0
+Bruce	Motorcycle Dealers	4.0
+Bruce	Pediatric Dentists	3.0
+Bruce	Police Departments	2.5
+Bruce	Tapas/Small Plates	4.0
+Bruce	Wheel & Rim Repair	4.0
+Bruce	Adult Entertainment	3.0
+Bruce	Appliances & Repair	3.5
+Bruce	Auto Glass Services	4.0
+Bruce	Children's Clothing	2.5
+Bruce	Do-It-Yourself Food	4.0
+Bruce	Eyewear & Opticians	3.5
+Bruce	Home Window Tinting	4.0
+Bruce	Mobile Phone Repair	4.0
+Bruce	Oil Change Stations	3.7777777777777777
+Bruce	Smog Check Stations	4.0
+Bruce	Transmission Repair	5.0
+Bruce	Arts & Entertainment	3.980392156862745
+Bruce	Chocolatiers & Shops	5.0
+Bruce	Educational Services	3.2
+Bruce	Auto Parts & Supplies	3.25
+Bruce	Baby Gear & Furniture	3.0
+Bruce	Banks & Credit Unions	3.2
+Bruce	Fitness & Instruction	4.0
+Bruce	Machine & Tool Rental	4.0
+Bruce	Nurseries & Gardening	3.857142857142857
+Bruce	Professional Services	3.6
+Bruce	Public Transportation	3.75
+Bruce	Registration Services	2.0
+Bruce	Venues & Event Spaces	3.8125
+Bruce	Vintage & Consignment	4.0
+Bruce	American (Traditional)	3.5441176470588234
+Bruce	Dry Cleaning & Laundry	5.0
+Bruce	Food Delivery Services	3.6
+Bruce	Gas & Service Stations	3.4375
+Bruce	Juice Bars & Smoothies	3.75
+Bruce	Newspapers & Magazines	2.5
+Bruce	Party & Event Planning	5.0
+Bruce	Countertop Installation	5.0
+Bruce	Religious Organizations	5.0
+Bruce	Pet Boarding/Pet Sitting	4.0
+Bruce	Cosmetics & Beauty Supply	3.1666666666666665
+Bruce	Event Planning & Services	3.7735849056603774
+Bruce	Ice Cream & Frozen Yogurt	3.857142857142857
+Bruce	Professional Sports Teams	3.75
+Bruce	Internet Service Providers	4.0
+Bruce	Videos & Video Game Rental	3.0
+Bruce	Community Service/Non-Profit	2.0
+Bruce	Couriers & Delivery Services	3.0
+Bruce	Public Services & Government	3.659090909090909
+Bruce	Television Service Providers	4.0
+Bruce	Departments of Motor Vehicles	4.0
+Bruce	IT Services & Computer Repair	3.7142857142857144
+Bruce	Lighting Fixtures & Equipment	3.0
+Bruce	Obstetricians & Gynecologists	4.0
+Bruce	Photography Stores & Services	2.5
+Bruce	Musical Instruments & Teachers	5.0
+Bruce	Landmarks & Historical Buildings	4.526315789473684
+Bruce	Windshield Installation & Repair	4.0
+Shila	Bars	4.5
+Shila	Food	4.428571428571429
+Shila	Mags	4.5
+Shila	Pets	5.0
+Shila	Books	4.5
+Shila	Diners	3.0
+Shila	Hotels	3.7777777777777777
+Shila	Buffets	4.0
+Shila	Burgers	5.0
+Shila	Casinos	3.7
+Shila	Fashion	3.6666666666666665
+Shila	Museums	5.0
+Shila	Resorts	4.0
+Shila	Bakeries	3.5
+Shila	Lingerie	3.0
+Shila	Shopping	3.923076923076923
+Shila	Nightlife	4.75
+Shila	Mass Media	1.0
+Shila	Street Art	5.0
+Shila	Toy Stores	4.5
+Shila	Active Life	5.0
+Shila	Comic Books	5.0
+Shila	Hobby Shops	4.0
+Shila	Restaurants	4.285714285714286
+Shila	Steakhouses	5.0
+Shila	Cajun/Creole	5.0
+Shila	Candy Stores	5.0
+Shila	Coffee & Tea	5.0
+Shila	Local Flavor	5.0
+Shila	Music & DVDs	5.0
+Shila	Music Venues	5.0
+Shila	Pet Services	5.0
+Shila	Arts & Crafts	5.0
+Shila	Music & Video	4.5
+Shila	American (New)	5.0
+Shila	Health Markets	5.0
+Shila	Local Services	4.0
+Shila	Radio Stations	1.0
+Shila	Souvenir Shops	5.0
+Shila	Specialty Food	4.75
+Shila	Amusement Parks	5.0
+Shila	Hotels & Travel	3.7777777777777777
+Shila	Performing Arts	5.0
+Shila	Health & Medical	3.0
+Shila	Office Equipment	4.0
+Shila	Shipping Centers	4.0
+Shila	Shopping Centers	3.0
+Shila	Wholesale Stores	4.0
+Shila	Department Stores	3.0
+Shila	Breakfast & Brunch	3.6666666666666665
+Shila	Adult Entertainment	5.0
+Shila	Television Stations	1.0
+Shila	Weight Loss Centers	3.0
+Shila	Arts & Entertainment	4.133333333333334
+Shila	Chocolatiers & Shops	5.0
+Shila	Venues & Event Spaces	5.0
+Shila	American (Traditional)	3.75
+Shila	Event Planning & Services	3.7777777777777777
+Shila	Videos & Video Game Rental	4.5
+Shila	Public Services & Government	5.0
+Shila	Landmarks & Historical Buildings	5.0
+Nijole	Bars	3.65
+Nijole	Beer	3.75
+Nijole	Food	3.8333333333333335
+Nijole	Golf	4.0
+Nijole	Used	4.2
+Nijole	Delis	3.0
+Nijole	Pizza	5.0
+Nijole	Salad	5.0
+Nijole	Tours	3.0
+Nijole	Bagels	3.0
+Nijole	Bridal	5.0
+Nijole	Donuts	4.2
+Nijole	French	4.0
+Nijole	Gelato	5.0
+Nijole	German	3.0
+Nijole	Hotels	3.7083333333333335
+Nijole	Burgers	3.2941176470588234
+Nijole	Casinos	3.76
+Nijole	Chinese	5.0
+Nijole	Fashion	4.0
+Nijole	Italian	5.0
+Nijole	Jewelry	4.5
+Nijole	Lounges	4.0
+Nijole	Luggage	1.0
+Nijole	Mexican	3.6666666666666665
+Nijole	Museums	4.5
+Nijole	Resorts	3.727272727272727
+Nijole	Seafood	5.0
+Nijole	Bakeries	4.142857142857143
+Nijole	Barbeque	4.0
+Nijole	Beer Bar	3.0
+Nijole	Cupcakes	4.0
+Nijole	Day Spas	4.0
+Nijole	Desserts	4.0
+Nijole	Japanese	5.0
+Nijole	Macarons	4.5
+Nijole	Shopping	3.823529411764706
+Nijole	Aquariums	4.0
+Nijole	Fast Food	4.0
+Nijole	Nightlife	3.6956521739130435
+Nijole	Skin Care	5.0
+Nijole	Soul Food	4.0
+Nijole	Wine Bars	4.0
+Nijole	Automotive	4.5
+Nijole	Drugstores	2.0
+Nijole	Gift Shops	3.5
+Nijole	Home Decor	4.0
+Nijole	Mass Media	4.0
+Nijole	Pawn Shops	4.0
+Nijole	Sandwiches	4.0
+Nijole	Street Art	4.0
+Nijole	Toy Stores	4.0
+Nijole	Accessories	3.0
+Nijole	Active Life	4.0
+Nijole	Art Museums	5.0
+Nijole	Beer Garden	3.0
+Nijole	Car Dealers	5.0
+Nijole	Dance Clubs	3.3333333333333335
+Nijole	Food Trucks	5.0
+Nijole	Gluten-Free	5.0
+Nijole	Print Media	4.0
+Nijole	Restaurants	3.739130434782609
+Nijole	Shoe Stores	4.0
+Nijole	Sports Bars	3.5
+Nijole	Steakhouses	5.0
+Nijole	Asian Fusion	4.2
+Nijole	Candy Stores	3.5
+Nijole	Coffee & Tea	4.0
+Nijole	Guest Houses	4.0
+Nijole	Jazz & Blues	4.0
+Nijole	Local Flavor	4.25
+Nijole	Music Venues	4.0
+Nijole	Social Clubs	2.0
+Nijole	Art Galleries	4.5
+Nijole	Beauty & Spas	4.333333333333333
+Nijole	Cocktail Bars	4.25
+Nijole	Home & Garden	4.0
+Nijole	Outlet Stores	3.4
+Nijole	Thrift Stores	4.666666666666667
+Nijole	American (New)	3.5
+Nijole	Men's Clothing	3.5
+Nijole	Souvenir Shops	3.5
+Nijole	Specialty Food	3.75
+Nijole	Swimming Pools	4.0
+Nijole	Transportation	3.0
+Nijole	Wine & Spirits	3.75
+Nijole	Flowers & Gifts	3.5
+Nijole	Health Retreats	4.0
+Nijole	Hotels & Travel	3.6923076923076925
+Nijole	Performing Arts	4.0
+Nijole	Shopping Centers	3.8
+Nijole	Women's Clothing	3.6
+Nijole	Botanical Gardens	3.0
+Nijole	Department Stores	4.25
+Nijole	Auto Customization	5.0
+Nijole	Breakfast & Brunch	4.4
+Nijole	Convenience Stores	4.0
+Nijole	Motorcycle Dealers	5.0
+Nijole	Adult Entertainment	4.0
+Nijole	Do-It-Yourself Food	5.0
+Nijole	Arts & Entertainment	3.75
+Nijole	Chocolatiers & Shops	3.6666666666666665
+Nijole	Public Transportation	3.0
+Nijole	Vintage & Consignment	4.2
+Nijole	American (Traditional)	3.3636363636363638
+Nijole	Food Delivery Services	3.0
+Nijole	Gas & Service Stations	4.0
+Nijole	Juice Bars & Smoothies	3.0
+Nijole	Cosmetics & Beauty Supply	5.0
+Nijole	Event Planning & Services	3.7083333333333335
+Nijole	Ice Cream & Frozen Yogurt	4.428571428571429
+Nijole	Public Services & Government	4.25
+Nijole	Photography Stores & Services	4.0
+Nijole	Landmarks & Historical Buildings	4.0
+Victor	Hotels	2.4
+Victor	Casinos	2.4
+Victor	Resorts	3.0
+Victor	Airlines	3.0
+Victor	Shopping	1.0
+Victor	Drugstores	1.0
+Victor	Transportation	3.0
+Victor	Hotels & Travel	2.5
+Victor	Arts & Entertainment	2.4
+Victor	Event Planning & Services	2.4
+Kenneth	Bars	3.3333333333333335
+Kenneth	Beer	3.0
+Kenneth	Food	3.21875
+Kenneth	Gyms	4.0
+Kenneth	Hats	4.0
+Kenneth	Mags	3.25
+Kenneth	Pubs	3.4
+Kenneth	Soup	3.6666666666666665
+Kenneth	Thai	2.6666666666666665
+Kenneth	Yoga	4.0
+Kenneth	Books	3.25
+Kenneth	Cafes	3.4
+Kenneth	Delis	3.0
+Kenneth	Greek	4.0
+Kenneth	Halal	4.0
+Kenneth	Irish	4.0
+Kenneth	Limos	4.0
+Kenneth	Pizza	3.0
+Kenneth	Ramen	3.3333333333333335
+Kenneth	Salad	3.6
+Kenneth	Taxis	3.3333333333333335
+Kenneth	Tires	3.0
+Kenneth	Vegan	3.0
+Kenneth	Bagels	3.0
+Kenneth	Cinema	4.0
+Kenneth	Diners	3.0
+Kenneth	French	3.5
+Kenneth	Gelato	4.0
+Kenneth	German	4.0
+Kenneth	Hotels	3.5
+Kenneth	Indian	4.0
+Kenneth	Belgian	2.0
+Kenneth	Bowling	4.0
+Kenneth	Buffets	3.0
+Kenneth	Burgers	3.142857142857143
+Kenneth	Casinos	3.3333333333333335
+Kenneth	Chinese	3.25
+Kenneth	Dim Sum	3.0
+Kenneth	Fashion	3.3076923076923075
+Kenneth	Grocery	3.3333333333333335
+Kenneth	Italian	3.4
+Kenneth	Jewelry	3.0
+Kenneth	Laotian	3.0
+Kenneth	Lounges	3.5
+Kenneth	Noodles	3.5
+Kenneth	Resorts	3.0
+Kenneth	Seafood	3.6666666666666665
+Kenneth	Watches	3.5
+Kenneth	Airports	2.0
+Kenneth	Bakeries	3.0
+Kenneth	Barbeque	3.0
+Kenneth	Beer Bar	3.0
+Kenneth	Caterers	4.0
+Kenneth	Desserts	3.2857142857142856
+Kenneth	Japanese	3.3333333333333335
+Kenneth	Shopping	3.317073170731707
+Kenneth	Cantonese	3.0
+Kenneth	Computers	4.0
+Kenneth	Creperies	3.5
+Kenneth	Dive Bars	3.0
+Kenneth	Fast Food	3.5
+Kenneth	Nightlife	3.409090909090909
+Kenneth	Pakistani	4.0
+Kenneth	Taiwanese	3.0
+Kenneth	Wine Bars	3.0
+Kenneth	Automotive	3.5
+Kenneth	Gastropubs	2.0
+Kenneth	Home Decor	2.5
+Kenneth	Mass Media	3.0
+Kenneth	Sandwiches	3.2857142857142856
+Kenneth	Street Art	3.0
+Kenneth	Tapas Bars	3.0
+Kenneth	Vegetarian	3.5
+Kenneth	Vietnamese	3.3333333333333335
+Kenneth	Accessories	3.375
+Kenneth	Active Life	3.6
+Kenneth	Dance Clubs	4.0
+Kenneth	Electronics	3.0
+Kenneth	Hobby Shops	4.0
+Kenneth	Restaurants	3.4
+Kenneth	Shoe Stores	3.2
+Kenneth	Sports Bars	2.5
+Kenneth	Sports Wear	3.25
+Kenneth	Steakhouses	3.5
+Kenneth	Asian Fusion	3.6666666666666665
+Kenneth	Candy Stores	3.0
+Kenneth	Coffee & Tea	3.25
+Kenneth	Comfort Food	3.6666666666666665
+Kenneth	Fish & Chips	4.0
+Kenneth	Guest Houses	4.0
+Kenneth	Music & DVDs	3.0
+Kenneth	Music Venues	3.6666666666666665
+Kenneth	Social Clubs	3.0
+Kenneth	Sports Clubs	3.0
+Kenneth	Ticket Sales	3.0
+Kenneth	Art Galleries	4.0
+Kenneth	Arts & Crafts	2.0
+Kenneth	Beauty & Spas	3.0
+Kenneth	Chicken Wings	3.5
+Kenneth	Cocktail Bars	3.3333333333333335
+Kenneth	Home & Garden	2.6666666666666665
+Kenneth	Leather Goods	3.0
+Kenneth	Mobile Phones	4.0
+Kenneth	Music & Video	3.25
+Kenneth	Outlet Stores	4.0
+Kenneth	American (New)	3.5384615384615383
+Kenneth	Canadian (New)	3.5
+Kenneth	Kitchen & Bath	3.0
+Kenneth	Local Services	3.3333333333333335
+Kenneth	Men's Clothing	3.375
+Kenneth	Middle Eastern	3.0
+Kenneth	Radio Stations	3.0
+Kenneth	Souvenir Shops	3.0
+Kenneth	Specialty Food	3.2
+Kenneth	Sporting Goods	3.25
+Kenneth	Transportation	3.3333333333333335
+Kenneth	Wine & Spirits	3.0
+Kenneth	Airport Lounges	3.0
+Kenneth	Amusement Parks	3.0
+Kenneth	Flowers & Gifts	2.0
+Kenneth	Hardware Stores	3.0
+Kenneth	Hotels & Travel	3.4
+Kenneth	Performing Arts	3.0
+Kenneth	Travel Services	4.0
+Kenneth	Shopping Centers	3.6666666666666665
+Kenneth	Wholesale Stores	4.0
+Kenneth	Women's Clothing	3.2222222222222223
+Kenneth	Department Stores	3.0
+Kenneth	Video Game Stores	3.0
+Kenneth	Breakfast & Brunch	3.3333333333333335
+Kenneth	Cards & Stationery	2.0
+Kenneth	Convenience Stores	3.0
+Kenneth	Tapas/Small Plates	3.0
+Kenneth	Adult Entertainment	4.0
+Kenneth	Television Stations	3.0
+Kenneth	Arts & Entertainment	3.3333333333333335
+Kenneth	Chocolatiers & Shops	3.0
+Kenneth	Fitness & Instruction	4.0
+Kenneth	Public Transportation	3.0
+Kenneth	American (Traditional)	3.272727272727273
+Kenneth	Dry Cleaning & Laundry	3.0
+Kenneth	Food Delivery Services	4.0
+Kenneth	Gas & Service Stations	3.0
+Kenneth	Juice Bars & Smoothies	3.5
+Kenneth	Newspapers & Magazines	3.0
+Kenneth	Psychics & Astrologers	3.0
+Kenneth	Cosmetics & Beauty Supply	3.0
+Kenneth	Event Planning & Services	3.4444444444444446
+Kenneth	Ice Cream & Frozen Yogurt	3.5
+Kenneth	Professional Sports Teams	2.6666666666666665
+Kenneth	Videos & Video Game Rental	3.5
+Kenneth	Public Services & Government	3.0
+Kenneth	IT Services & Computer Repair	3.5
+Kenneth	Landmarks & Historical Buildings	3.0
+Jennifer	Bars	3.2862453531598512
+Jennifer	Beer	3.316666666666667
+Jennifer	Food	3.309884238646483
+Jennifer	Golf	3.3333333333333335
+Jennifer	Gyms	3.8
+Jennifer	Hats	3.0
+Jennifer	Mags	3.5
+Jennifer	Pets	3.3636363636363638
+Jennifer	Pubs	3.2333333333333334
+Jennifer	Rugs	4.0
+Jennifer	Soup	3.310344827586207
+Jennifer	Thai	2.955056179775281
+Jennifer	Udon	4.0
+Jennifer	Used	4.0
+Jennifer	Yoga	3.4393939393939394
+Jennifer	Zoos	3.6666666666666665
+Jennifer	Adult	3.0
+Jennifer	Bikes	4.0
+Jennifer	Books	3.5
+Jennifer	Buses	3.0
+Jennifer	Cafes	3.3307086614173227
+Jennifer	Cuban	3.0
+Jennifer	Delis	3.4074074074074074
+Jennifer	Greek	3.1578947368421053
+Jennifer	Hakka	3.0
+Jennifer	Halal	3.1578947368421053
+Jennifer	Irish	3.2
+Jennifer	Parks	3.7
+Jennifer	Pizza	3.2830188679245285
+Jennifer	Ramen	3.24
+Jennifer	Salad	3.25
+Jennifer	Tours	3.0
+Jennifer	Vegan	3.4545454545454546
+Jennifer	Afghan	3.0
+Jennifer	Bagels	3.25
+Jennifer	Basque	2.0
+Jennifer	Cinema	3.4444444444444446
+Jennifer	Diners	3.269230769230769
+Jennifer	Donuts	3.1818181818181817
+Jennifer	Fondue	3.0
+Jennifer	French	3.411764705882353
+Jennifer	Gelato	3.0
+Jennifer	German	3.6666666666666665
+Jennifer	Hainan	4.0
+Jennifer	Hotels	3.090909090909091
+Jennifer	Indian	3.1702127659574466
+Jennifer	Korean	3.172932330827068
+Jennifer	Kosher	3.0
+Jennifer	Polish	3.3333333333333335
+Jennifer	Tennis	4.0
+Jennifer	African	3.4
+Jennifer	Arcades	4.0
+Jennifer	Beaches	3.0
+Jennifer	Belgian	3.142857142857143
+Jennifer	Bistros	3.3333333333333335
+Jennifer	Bowling	3.0
+Jennifer	British	3.4285714285714284
+Jennifer	Buffets	2.7
+Jennifer	Burgers	3.1481481481481484
+Jennifer	Burmese	3.0
+Jennifer	Butcher	3.6666666666666665
+Jennifer	Casinos	3.0
+Jennifer	Chinese	2.928155339805825
+Jennifer	Dim Sum	2.915492957746479
+Jennifer	Doctors	4.0
+Jennifer	Donairs	4.0
+Jennifer	Falafel	4.0
+Jennifer	Fashion	3.1666666666666665
+Jennifer	Framing	4.0
+Jennifer	Grocery	3.2641509433962264
+Jennifer	Hot Pot	2.75
+Jennifer	Italian	3.1940298507462686
+Jennifer	Jewelry	3.7142857142857144
+Jennifer	Karaoke	3.0
+Jennifer	Laotian	4.0
+Jennifer	Lounges	3.3488372093023258
+Jennifer	Luggage	3.0
+Jennifer	Massage	3.6363636363636362
+Jennifer	Mexican	3.3793103448275863
+Jennifer	Museums	3.888888888888889
+Jennifer	Noodles	3.0454545454545454
+Jennifer	Parking	2.6666666666666665
+Jennifer	Pilates	3.5555555555555554
+Jennifer	Russian	3.5
+Jennifer	Seafood	3.1411764705882352
+Jennifer	Spanish	3.25
+Jennifer	Tex-Mex	3.0
+Jennifer	Turkish	3.3333333333333335
+Jennifer	Waffles	3.5
+Jennifer	Watches	4.0
+Jennifer	Airlines	3.0
+Jennifer	Airports	3.3333333333333335
+Jennifer	Antiques	4.0
+Jennifer	Austrian	4.0
+Jennifer	Bakeries	3.3333333333333335
+Jennifer	Barbeque	3.2205882352941178
+Jennifer	Beer Bar	3.0
+Jennifer	Caterers	3.272727272727273
+Jennifer	Churches	3.6666666666666665
+Jennifer	Cideries	4.0
+Jennifer	Cupcakes	3.5
+Jennifer	Day Spas	3.272727272727273
+Jennifer	Desserts	3.3101604278074865
+Jennifer	Filipino	3.3
+Jennifer	Florists	3.5
+Jennifer	Hot Dogs	3.3636363636363638
+Jennifer	Japanese	3.0884615384615386
+Jennifer	Lebanese	3.0
+Jennifer	Lingerie	3.75
+Jennifer	Macarons	3.0
+Jennifer	Moroccan	3.25
+Jennifer	Peruvian	3.0
+Jennifer	Scottish	3.0
+Jennifer	Shopping	3.23265306122449
+Jennifer	Southern	3.5
+Jennifer	Szechuan	2.0
+Jennifer	Trainers	3.6666666666666665
+Jennifer	Wineries	3.6666666666666665
+Jennifer	Aquariums	4.0
+Jennifer	Argentine	4.0
+Jennifer	Brazilian	3.25
+Jennifer	Breweries	3.6666666666666665
+Jennifer	Cafeteria	3.0
+Jennifer	Cambodian	3.5
+Jennifer	Cantonese	3.0
+Jennifer	Caribbean	3.185185185185185
+Jennifer	Computers	3.0
+Jennifer	Creperies	3.3846153846153846
+Jennifer	Dive Bars	3.3333333333333335
+Jennifer	Dog Parks	4.333333333333333
+Jennifer	Education	3.142857142857143
+Jennifer	Ethiopian	3.0
+Jennifer	Fast Food	3.085714285714286
+Jennifer	Festivals	3.4705882352941178
+Jennifer	Gardeners	3.0
+Jennifer	Hospitals	3.5
+Jennifer	Hungarian	3.5
+Jennifer	Irish Pub	3.0
+Jennifer	Libraries	3.26
+Jennifer	Malaysian	3.0
+Jennifer	Nightlife	3.2857142857142856
+Jennifer	Pakistani	3.3
+Jennifer	Skin Care	3.3333333333333335
+Jennifer	Soul Food	3.6666666666666665
+Jennifer	Taiwanese	3.1219512195121952
+Jennifer	Tea Rooms	3.1481481481481484
+Jennifer	Ukrainian	4.0
+Jennifer	Wine Bars	3.4444444444444446
+Jennifer	Appliances	3.125
+Jennifer	Automotive	3.2777777777777777
+Jennifer	Body Shops	2.0
+Jennifer	Bookstores	3.6
+Jennifer	Brasseries	3.375
+Jennifer	Bubble Tea	3.090909090909091
+Jennifer	Car Rental	2.0
+Jennifer	Drugstores	3.5
+Jennifer	Food Court	3.066666666666667
+Jennifer	Gastropubs	3.5555555555555554
+Jennifer	Gift Shops	3.7142857142857144
+Jennifer	Home Decor	3.3214285714285716
+Jennifer	Indonesian	3.5
+Jennifer	Life Coach	3.0
+Jennifer	Mass Media	3.0
+Jennifer	Mattresses	3.5
+Jennifer	Meat Shops	3.5
+Jennifer	Pet Stores	3.3
+Jennifer	Pool Halls	2.6666666666666665
+Jennifer	Portuguese	3.0
+Jennifer	Sandwiches	3.4123711340206184
+Jennifer	Smokehouse	3.6666666666666665
+Jennifer	Sri Lankan	3.6666666666666665
+Jennifer	Sushi Bars	3.0606060606060606
+Jennifer	Tapas Bars	3.176470588235294
+Jennifer	Toy Stores	3.3333333333333335
+Jennifer	Vape Shops	4.0
+Jennifer	Vegetarian	3.3181818181818183
+Jennifer	Venezuelan	3.0
+Jennifer	Vietnamese	2.967479674796748
+Jennifer	Wine Tours	3.0
+Jennifer	Accessories	3.142857142857143
+Jennifer	Active Life	3.5
+Jennifer	Acupuncture	4.5
+Jennifer	Art Classes	3.0
+Jennifer	Art Schools	3.0
+Jennifer	Auto Repair	3.3333333333333335
+Jennifer	Bangladeshi	3.0
+Jennifer	Car Dealers	3.142857142857143
+Jennifer	Dance Clubs	2.3333333333333335
+Jennifer	Electronics	2.7777777777777777
+Jennifer	Ethnic Food	3.12
+Jennifer	Food Stands	3.4545454545454546
+Jennifer	Food Trucks	3.6666666666666665
+Jennifer	Gluten-Free	3.142857142857143
+Jennifer	Hair Salons	3.0
+Jennifer	Hobby Shops	3.5714285714285716
+Jennifer	Hookah Bars	2.6666666666666665
+Jennifer	Landscaping	3.5
+Jennifer	Nail Salons	3.6666666666666665
+Jennifer	Playgrounds	3.75
+Jennifer	Poutineries	3.4285714285714284
+Jennifer	Restaurants	3.122281295311745
+Jennifer	Shoe Repair	4.0
+Jennifer	Shoe Stores	2.5
+Jennifer	Singaporean	3.3333333333333335
+Jennifer	Sports Bars	3.1
+Jennifer	Sports Wear	3.7
+Jennifer	Steakhouses	3.1315789473684212
+Jennifer	Yelp Events	4.0
+Jennifer	Art Supplies	3.0
+Jennifer	Asian Fusion	3.086021505376344
+Jennifer	Cajun/Creole	3.3333333333333335
+Jennifer	Candy Stores	3.6666666666666665
+Jennifer	Cheese Shops	3.5
+Jennifer	Chicken Shop	4.0
+Jennifer	Coffee & Tea	3.2828054298642533
+Jennifer	Comfort Food	3.3055555555555554
+Jennifer	Delicatessen	3.857142857142857
+Jennifer	Distilleries	3.5
+Jennifer	Escape Games	4.0
+Jennifer	Fish & Chips	3.25
+Jennifer	Flea Markets	2.0
+Jennifer	Hair Removal	3.0
+Jennifer	Jazz & Blues	3.25
+Jennifer	Local Flavor	3.6
+Jennifer	Martial Arts	3.3333333333333335
+Jennifer	Medical Spas	2.6666666666666665
+Jennifer	Music & DVDs	2.0
+Jennifer	Music Venues	3.4
+Jennifer	Outdoor Gear	4.0
+Jennifer	Pet Groomers	3.0
+Jennifer	Pet Services	3.2142857142857144
+Jennifer	Pet Training	3.25
+Jennifer	Shanghainese	4.0
+Jennifer	Social Clubs	3.0
+Jennifer	Sports Clubs	2.6666666666666665
+Jennifer	Whiskey Bars	3.5
+Jennifer	Art Galleries	3.3333333333333335
+Jennifer	Arts & Crafts	3.7142857142857144
+Jennifer	Barre Classes	3.5
+Jennifer	Beauty & Spas	3.484848484848485
+Jennifer	Chicken Wings	3.21875
+Jennifer	Chiropractors	4.5
+Jennifer	Cocktail Bars	3.6666666666666665
+Jennifer	Dance Schools	3.0
+Jennifer	Dance Studios	3.0
+Jennifer	Home & Garden	3.2698412698412698
+Jennifer	Home Services	3.1666666666666665
+Jennifer	Imported Food	3.037037037037037
+Jennifer	International	3.0
+Jennifer	Leather Goods	2.5
+Jennifer	Live/Raw Food	3.0
+Jennifer	Market Stalls	4.0
+Jennifer	Mediterranean	3.1333333333333333
+Jennifer	Mobile Phones	3.4
+Jennifer	Music & Video	3.5
+Jennifer	Outlet Stores	4.0
+Jennifer	Photographers	4.0
+Jennifer	Skating Rinks	3.0
+Jennifer	South African	3.0
+Jennifer	Tobacco Shops	4.0
+Jennifer	Veterinarians	3.5
+Jennifer	American (New)	3.260869565217391
+Jennifer	Canadian (New)	3.25
+Jennifer	Discount Store	3.2
+Jennifer	Farmers Market	3.727272727272727
+Jennifer	Graphic Design	4.0
+Jennifer	Haunted Houses	4.0
+Jennifer	Health Markets	3.4
+Jennifer	Herbs & Spices	4.0
+Jennifer	Internet Cafes	3.25
+Jennifer	Kitchen & Bath	3.35
+Jennifer	Latin American	3.1875
+Jennifer	Local Services	3.35
+Jennifer	Men's Clothing	3.125
+Jennifer	Middle Eastern	3.0
+Jennifer	Opera & Ballet	2.0
+Jennifer	Organic Stores	3.4444444444444446
+Jennifer	Party Supplies	4.0
+Jennifer	Radio Stations	3.0
+Jennifer	Specialty Food	3.3312101910828025
+Jennifer	Sporting Goods	3.6153846153846154
+Jennifer	Street Vendors	3.5
+Jennifer	Swimming Pools	4.0
+Jennifer	Tabletop Games	3.0
+Jennifer	Trailer Repair	2.0
+Jennifer	Train Stations	3.25
+Jennifer	Transportation	3.1379310344827585
+Jennifer	Wine & Spirits	3.316666666666667
+Jennifer	Airport Lounges	3.2
+Jennifer	Amusement Parks	3.6666666666666665
+Jennifer	Baseball Fields	4.0
+Jennifer	Cooking Classes	3.0
+Jennifer	Cooking Schools	3.0
+Jennifer	Eyelash Service	4.0
+Jennifer	Flowers & Gifts	3.6666666666666665
+Jennifer	Hardware Stores	3.6
+Jennifer	Hotels & Travel	3.076923076923077
+Jennifer	Interior Design	3.0
+Jennifer	Leisure Centers	4.0
+Jennifer	Massage Therapy	4.0
+Jennifer	Medical Centers	3.0
+Jennifer	Modern European	3.6666666666666665
+Jennifer	Performing Arts	3.6
+Jennifer	Persian/Iranian	3.3076923076923075
+Jennifer	Seafood Markets	3.5384615384615383
+Jennifer	Shades & Blinds	3.0
+Jennifer	Travel Services	3.0
+Jennifer	Airport Shuttles	4.0
+Jennifer	Fruits & Veggies	3.6666666666666665
+Jennifer	Furniture Stores	3.125
+Jennifer	Health & Medical	3.5
+Jennifer	Office Equipment	2.5
+Jennifer	Physical Therapy	5.0
+Jennifer	Shopping Centers	2.8125
+Jennifer	Wedding Planning	3.0
+Jennifer	Wholesale Stores	4.0
+Jennifer	Women's Clothing	3.1739130434782608
+Jennifer	Aquarium Services	4.0
+Jennifer	Coffee Roasteries	3.727272727272727
+Jennifer	Community Centers	4.0
+Jennifer	Department Stores	2.6666666666666665
+Jennifer	Personal Shopping	4.0
+Jennifer	Specialty Schools	3.0
+Jennifer	Stadiums & Arenas	3.8
+Jennifer	Breakfast & Brunch	3.3211009174311927
+Jennifer	Cards & Stationery	4.0
+Jennifer	Convenience Stores	3.25
+Jennifer	Electronics Repair	3.0
+Jennifer	Financial Services	3.5
+Jennifer	Flight Instruction	4.0
+Jennifer	Himalayan/Nepalese	3.6666666666666665
+Jennifer	Meditation Centers	4.0
+Jennifer	Recreation Centers	4.0
+Jennifer	Tapas/Small Plates	3.12
+Jennifer	Auto Glass Services	4.0
+Jennifer	Children's Clothing	3.0
+Jennifer	Do-It-Yourself Food	3.3333333333333335
+Jennifer	Eyewear & Opticians	3.3333333333333335
+Jennifer	Mobile Phone Repair	3.0
+Jennifer	Oil Change Stations	4.0
+Jennifer	Photo Booth Rentals	4.0
+Jennifer	Smog Check Stations	4.0
+Jennifer	Television Stations	3.0
+Jennifer	Amateur Sports Teams	3.0
+Jennifer	Arts & Entertainment	3.4177215189873418
+Jennifer	Chocolatiers & Shops	3.35
+Jennifer	Patisserie/Cake Shop	4.0
+Jennifer	Sewing & Alterations	4.0
+Jennifer	Auto Parts & Supplies	3.0
+Jennifer	Baby Gear & Furniture	3.0
+Jennifer	Banks & Credit Unions	4.0
+Jennifer	Coffee & Tea Supplies	4.0
+Jennifer	Fitness & Instruction	3.4444444444444446
+Jennifer	International Grocery	3.3333333333333335
+Jennifer	Nurseries & Gardening	4.0
+Jennifer	Professional Services	3.5
+Jennifer	Public Transportation	3.05
+Jennifer	Venues & Event Spaces	3.3333333333333335
+Jennifer	Vintage & Consignment	4.0
+Jennifer	American (Traditional)	3.1204819277108435
+Jennifer	Customized Merchandise	3.0
+Jennifer	Emergency Pet Hospital	3.0
+Jennifer	Food Delivery Services	3.230769230769231
+Jennifer	Gas & Service Stations	3.4
+Jennifer	Juice Bars & Smoothies	3.108108108108108
+Jennifer	Party & Event Planning	3.5
+Jennifer	Religious Organizations	3.75
+Jennifer	Passport & Visa Services	3.0
+Jennifer	Pet Boarding/Pet Sitting	3.0
+Jennifer	Cosmetics & Beauty Supply	3.8181818181818183
+Jennifer	Event Planning & Services	3.367088607594937
+Jennifer	Home Theatre Installation	2.0
+Jennifer	Ice Cream & Frozen Yogurt	3.369047619047619
+Jennifer	Professional Sports Teams	3.0
+Jennifer	Community Service/Non-Profit	4.0
+Jennifer	Public Services & Government	3.3125
+Jennifer	Departments of Motor Vehicles	3.0
+Jennifer	Funeral Services & Cemeteries	3.5
+Jennifer	IT Services & Computer Repair	3.0
+Jennifer	Lighting Fixtures & Equipment	4.0
+Jennifer	Photography Stores & Services	3.25
+Jennifer	Recording & Rehearsal Studios	4.0
+Jennifer	Musical Instruments & Teachers	4.0
+Jennifer	Landmarks & Historical Buildings	3.4285714285714284
+Jennifer	Windshield Installation & Repair	4.0
